@@ -6,7 +6,7 @@ import supabase from "../supabase/client";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import Loading from "../components/Loading";
-import UseProfile from "../hooks/useProfile";
+import UseProfile from "../hooks/UseProfile";
 import { getAvatarUrl } from "../utils/getAvatarUrl";
 import { useContext, useEffect, useState } from "react";
 import SessionContext from "../context/SessionContext";
