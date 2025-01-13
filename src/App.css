@@ -2,7 +2,7 @@
 
 body {
   font-family: "Montserrat";
-  background-image: url("./movie-background_2.jpg") !important;
+  background-image: url("/movie-background_2.jpg") !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
