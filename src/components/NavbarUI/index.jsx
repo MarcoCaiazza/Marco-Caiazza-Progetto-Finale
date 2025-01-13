@@ -18,7 +18,7 @@ import AutoCompleteCard from "../AutoCompleteMovie";
 import SessionContext from "../../context/SessionContext";
 import Dropdown from "react-bootstrap/Dropdown";
 import supabase from "../../supabase/client";
-import UseProfile from "../../hooks/useProfile";
+import UseProfile from "../../hooks/UseProfile";
 import NavDropdown from "react-bootstrap/NavDropdown";
 
 export default function NavbarUI() {
